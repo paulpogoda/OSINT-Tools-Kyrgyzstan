@@ -3,6 +3,9 @@
 A list of OSINT tools that may be useful to you when conducting investigations related to Kyrgyz Rebublic. Do you want me to add more? Make a pull-request.
 Unless further clarified, the site or project has versions in Kyrgyz and Russian only. Some resources have English language versions as well
 
+## Contributions
+Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+
  ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
@@ -78,7 +81,7 @@ Their search for phone numbers in Central Asian countries is growing. Non-free. 
 
 
 ## Public procurement
-- [Public procurement portal](http://zakupki.gov.kg/)
+- [Public procurement portal](http://zakupki.gov.kg/).
 The public procurement portal is a state information system that provides a single point of access to the services of electronic public procurement. 
 - [Government procurement portal](https://zakupki.okmot.kg/popp/)
 
