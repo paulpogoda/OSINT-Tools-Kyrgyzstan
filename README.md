@@ -13,10 +13,8 @@ Unless further clarified, the site or project has versions in Kyrgyz and Russian
  - [WHOIS](#whois)
 
 ## Open Data portals
-### [Kyrgyz Republic Open Data Portal](https://data.gov.kg/en/)
-There is an English and Kyrgyz  interface, but most of the data is in Russian (on Nov, 2024)
-
-#### API Endpoints for Open Data Portal
+- [Kyrgyz Republic Open Data Portal](https://data.gov.kg/en/)
+There is an English and Kyrgyz  interface, but most of the data is in Russian (on Nov, 2024). API Endpoints for Open Data Portal
 
 | Type | URL  |
 |:----------|:----------|
@@ -24,58 +22,58 @@ There is an English and Kyrgyz  interface, but most of the data is in Russian (o
 | ckan:package-search    | https://data.gov.kg/api/3/action/package_search    |
 | ckan:package-list   | https://data.gov.kg/api/3/action/package_list   |
 
-### [National Statistical Committee of the Kyrgyz Republic](https://stat.gov.kg/en/opendata/)
+- [National Statistical Committee of the Kyrgyz Republic](https://stat.gov.kg/en/opendata/)
 English version is avaliable
 
 - [See also data on Dateno Registry](https://dateno.io/registry/country/KG/)
 
-### Kyrgyz Stock Exchange
-- [Information Disclosure Center](https://www.kse.kg/en/PublicInfo)
-- [Trade Statistics](https://www.kse.kg/en/Statistics)
-
+### Kyrgyz Stock Exchange (KSE)
 English version is avaliable. For publication of periodic statements and information on material facts issuers may use the electronic system CJSC "Kyrgyz Stock Exchange" by the link oi.kse.kg.
 To get access (Login, Password) to the personal account of the issuer, please contact the Information Disclosure Department of the Kyrgyz Stock Exchange CJSC by phone: (0312) 31-15-01
+- [KSE Information Disclosure Center](https://www.kse.kg/en/PublicInfo)
+- [KSE Trade Statistics](https://www.kse.kg/en/Statistics)
 
-### [Unified Information System of the Ministry of Finance](https://okmot.kg)
+### Other
+- [Unified Information System of the Ministry of Finance](https://okmot.kg).
 A lot of 403 pages
 
-### [Open Budget](https://budget.okmot.kg/ru/home)
+- [Open Budget](https://budget.okmot.kg/ru/home)
 
-### [State portal of e-services](https://portal.tunduk.kg)
+- [State portal of e-services](https://portal.tunduk.kg).
 Available to residents of the Kyrgyz Republic
 
-### [Judicial acts from 2022](https://portal.sot.kg/ru/grsa?id=5&page=1&instance_ids=1&judicial_chamber=1)
+- [Judicial acts from 2022](https://portal.sot.kg/ru/grsa?id=5&page=1&instance_ids=1&judicial_chamber=1).
 Find link on previous acts on the page linked above
 
 ## Legal Entities
-### [Register of legal entities, branches (representative offices)](https://record.minjust.gov.kg)
+- [Register of legal entities, branches (representative offices)](https://record.minjust.gov.kg).
 The database of legal entities of the Ministry of Justice of the Kyrgyz Republic allows you to check whether the company actually exists and find out information about it
-### [Taxpayer Search](https://salyk.kg/TaxPayer/Info)
+- [Taxpayer Search](https://salyk.kg/TaxPayer/Info).
 This service of the State Tax Service under the Government of the Kyrgyz Republic allows you to check whether a given company or individual entrepreneur exists, find out its address and other details.
-### [Tax deductions database](https://budget.okmot.kg/ru/income)
+- [Tax deductions database](https://budget.okmot.kg/ru/income).
 This service allows you to find out by tax identification number (TIN) the amount of deductions to the budget of the corresponding taxpayer.
-### [OSOO.KG / Check counterparties and company search](https://www.osoo.kg)
+- [OSOO.KG / Check counterparties and company search](https://www.osoo.kg).
 Company summary information, search by TIN, founder's name, company name. Some data avaliable only for registered users, pricing starts from 19,900 KGS (EUR 220) monthly.
 
 ## Maps
-### [Cadastral Map of Kyrgyz Republic](https://www.cadastre.kg/svc-portal/map/main.do)
+- [Cadastral Map of Kyrgyz Republic](https://www.cadastre.kg/svc-portal/map/main.do)
 - [Municipal real estate](https://www.cadastre.kg/svc-portal/app/marketReport.do)
 - [Extracts from the cadastral register](https://www.cadastre.kg/svc-portal/app/civilPage.do)
-### [Kyrgyz Republic on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Kyrgyzstan)
-### [Address register of the Kyrgyz Republic](http://address.darek.kg)
+- [Kyrgyz Republic on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Kyrgyzstan)
+- [Address register of the Kyrgyz Republic](http://address.darek.kg)
 
 ## Vehicles
-### [Carcheck](https://m.mashina.kg/checkvin/) 
+- [Carcheck](https://m.mashina.kg/checkvin/). 
 Car history check by license plate number
-### [Tolom](https://tolom.kg/#searchBlock) 
+- [Tolom](https://tolom.kg/#searchBlock). 
 Verification of offenses issued manually, as well as violations recorded by “Safe City” cameras by vehicle license plate number.
 
 ## Phones
-### [Eye of God](https://t.me/yfzxzxqwqbot) 
+- [Eye of God](https://t.me/yfzxzxqwqbot). 
 The Telegram bot was created for Russia, but it contains databases of Kyrgyz telecom operators. Non-free. Search by phone number, name, email, etc.
-### [Yellow Pages](https://yellowpages.akipress.org) 
-### [Getcontact](https://getcontact.com) work as well
-### [OSINT Industies](https://app.osint.industries)
+- [Yellow Pages](https://yellowpages.akipress.org). 
+- [Getcontact](https://getcontact.com) work as well
+- [OSINT Industies](https://app.osint.industries).
 Their search for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
 
 
