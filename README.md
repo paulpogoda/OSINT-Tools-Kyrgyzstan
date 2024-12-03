@@ -6,12 +6,12 @@ Unless further clarified, the site or project has versions in Kyrgyz and Russian
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
- ## Table of content:
+## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
  - [Vehicles](#vehicles)
- - [Phones etc.](#phones)
+ - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
 
@@ -71,14 +71,13 @@ Car history check by license plate number
 - [Tolom](https://tolom.kg/#searchBlock). 
 Verification of offenses issued manually, as well as violations recorded by “Safe City” cameras by vehicle license plate number.
 
-## Phones
+## People
 - [Eye of God](https://t.me/yfzxzxqwqbot). 
 The Telegram bot was created for Russia, but it contains databases of Kyrgyz telecom operators. Non-free. Search by phone number, name, email, etc.
 - [Yellow Pages](https://yellowpages.akipress.org). 
 - [Getcontact](https://getcontact.com) work as well
 - [OSINT Industies](https://app.osint.industries).
 Their search for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
-
 
 ## Public procurement
 - [Public procurement portal](http://zakupki.gov.kg/).
