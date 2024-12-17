@@ -1,12 +1,12 @@
 # OSINT-Tools-Kyrgyzstan
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg" alt="Flag of Kazakhstan" style="height: 320px; width:640px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg" alt="Flag of Kyrgyz Republic"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to Kyrgyz Rebublic. Do you want me to add more? Make a pull-request.
 Unless further clarified, the site or project has versions in Kyrgyz and Russian only. Some resources have English language versions as well
 
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
