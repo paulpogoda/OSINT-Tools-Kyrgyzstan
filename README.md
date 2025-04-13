@@ -72,12 +72,10 @@ Car history check by license plate number
 Verification of offenses issued manually, as well as violations recorded by “Safe City” cameras by vehicle license plate number.
 
 ## People
-- [Eye of God](https://t.me/yfzxzxqwqbot). 
-The Telegram bot was created for Russia, but it contains databases of Kyrgyz telecom operators. Non-free. Search by phone number, name, email, etc.
 - [Yellow Pages](https://yellowpages.akipress.org). 
 - [Getcontact](https://getcontact.com) work as well
-- [OSINT Industies](https://app.osint.industries).
-Their search for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
+- [OSINT Industies](https://app.osint.industries). Their search for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
+- Try [OSINT CSE List](https://github.com/paulpogoda/OSINT-CSE)
 
 ## Public procurement
 - [Public procurement portal](http://zakupki.gov.kg/).
